@@ -9,7 +9,8 @@
 
 #### 3.下载JDK并安装(本人这里使用jdk1.8做示例)
 
-<img src="C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20231031122333104.png" alt="image-20231031122333104" style="zoom:50%;" />
+![image](https://github.com/ZhiShiYiYu/Student-Information-Management-System/assets/105644411/6e0dda6a-cd3a-46e5-9b05-5eb39eca0ccc)
+
 
 #### 4.配置环境变量
 
@@ -17,7 +18,7 @@
 
 Path的设置：***\*Administrator的用户变量\****或***\*系统变量\****中的Path，如下图所示
 
-<img src="C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20231031123056043.png" alt="image-20231031123056043" style="zoom:50%;" />
+![image](https://github.com/ZhiShiYiYu/Student-Information-Management-System/assets/105644411/7eaf77af-2a4b-4abd-9923-5b6cbb53c0e9)
 
 在编辑环境变量窗口中点击“新建”，输入“C:\Program Files\Java\jdk1.8.0_181\bin”（或你的安装路径\bin）,完成后所有窗口点确定。
 
@@ -25,7 +26,7 @@ Path的设置：***\*Administrator的用户变量\****或***\*系统变量\****�
 
 WINDOWS键+R键，输入cmd，进入命令行界面，输入javac，出现以下内容即配置成功。
 
-<img src="C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20231031124027232.png" alt="image-20231031124027232" style="zoom: 67%;" />
+![image](https://github.com/ZhiShiYiYu/Student-Information-Management-System/assets/105644411/a226188a-6ae4-4a39-84f1-864d18cf4420)
 
 #### 6.导入数据库
 
@@ -41,18 +42,18 @@ WINDOWS键+R键，输入cmd，进入命令行界面，输入javac，出现以下
 
 ##### （1）点击右面数据库
 
-<img src="C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20231031124811679.png" alt="image-20231031124811679" style="zoom: 67%;" />
+![image](https://github.com/ZhiShiYiYu/Student-Information-Management-System/assets/105644411/cad8ff3c-6c90-482e-8609-76b3662a3a17)
 
 ##### （2）添加数据源，这里使用的是MySQL
 
-<img src="C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20231031124851039.png" alt="image-20231031124851039" style="zoom: 67%;" />
+![image](https://github.com/ZhiShiYiYu/Student-Information-Management-System/assets/105644411/5d9ce112-8136-4dbd-a027-52f07059e8fc)
 
 ##### （3）填写用户，密码，数据库名称(即swing_student)
 
-<img src="C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20231031125023018.png" alt="image-20231031125023018" style="zoom:50%;" />
+![image](https://github.com/ZhiShiYiYu/Student-Information-Management-System/assets/105644411/be61fc98-a2b9-4f2c-b0e1-06d2676750f1)
 
 ##### （4）添加驱动，选中即可
 
-<img src="C:\Users\86152\AppData\Roaming\Typora\typora-user-images\image-20231031125123658.png" alt="image-20231031125123658" style="zoom: 50%;" />
+![image](https://github.com/ZhiShiYiYu/Student-Information-Management-System/assets/105644411/534ab305-596b-4c88-97ab-d130661a51ca)
 
 #### 10.编译运行即可使用

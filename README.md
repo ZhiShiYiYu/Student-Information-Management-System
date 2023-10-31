@@ -16,7 +16,7 @@
 
 右击“此电脑”（或“我的电脑”）—属性----高级系统设置
 
-Path的设置：***\*Administrator的用户变量\****或***\*系统变量\****中的Path，如下图所示
+Path的设置：Administrator的用户变量或系统变量中的Path，如下图所示
 
 ![image](https://github.com/ZhiShiYiYu/Student-Information-Management-System/assets/105644411/7eaf77af-2a4b-4abd-9923-5b6cbb53c0e9)
 
